@@ -1,0 +1,10 @@
+Download and install old version of launcher 10.19.2
+https://mega.nz/file/CgFABbZD#PrY_brhl8e9OPBOIkoc4nUG8Kr63v78-PxkcrqyxYdo
+
+Launch it. Let it download the update. Login into launcher. 
+Then immediately shut down it through the task manager so the launcher do not download the updates completely. 
+Then right click on shortcut, choose properties and add -noselfupdate after the text: ".........Binaries\Win32\EpicGamesLauncher.exe " -noselfupdate
+
+To install archives with manifest, go along the path C:\Program Files (x86)\Epic Games\Launcher\VaultCache and transfer the contents of the archive there. 
+After adding a new folder in the VaultCache don’t forget to restart the launcher to asset appeared in your local library.
+Now download asset via Epic Games Launcher.
